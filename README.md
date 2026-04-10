@@ -10,6 +10,7 @@ This repository contains my certifications in Artificial Intelligence, Programmi
 - Java Programming
 - C Programming
 - Project Management
+- Conf Paper Presentation
 - STET(BSEB)
 
 ## 🚀 Goal
